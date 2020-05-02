@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "cl.lipigas.zpmfiolistordenes.ZPMFIOLISTORDENES",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#ZPMFIOLISTORDENES-Display",
+        "navigationComponentName": "cl.lipigas.zpmfiolistordenes",
+        "intentSemanticObject": "ZPMFIOLISTORDENES",
+        "intentAction": "Display",
+        "html5ApplicationName": "zpmfiolistordenes",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "a794a899-f46e-4b20-afd5-fb7106346b4f"
+        ],
+        "contentPackages": [
+            "bd349228-2cb8-4531-b1ee-4c674ca159ea"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Test PM",
+        "subtitle": "Subtitle",
+        "searchKeywords": "Test PM,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
